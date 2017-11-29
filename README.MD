@@ -1,4 +1,4 @@
-Automatic test grading tech demo
+Automatic test grading tech demo.
 Check out the video: https://youtu.be/CREn_h0S6jQ
 This application allows the user to use computer vision to scan multiple choice exams.
 Simply install the mobile app and point your camera towards the test.
